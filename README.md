@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkarkheck
 - 👀 I’m interested in Machine Learning and NLP
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently working Berkindale Analytics
 
 
 <!---
